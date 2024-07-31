@@ -1,3 +1,4 @@
+[![MasterHead](banner.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm UmarFarooqkadri</h1>
 <h3 align="center">A passionate DevSecOps Engineer</h3>
 
