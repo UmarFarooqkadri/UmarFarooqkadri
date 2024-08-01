@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/umarfarooqkadri" target="blank"><img src="https://img.shields.io/twitter/follow/umarfarooqkadri?logo=twitter&style=for-the-badge" alt="umarfarooqkadri" /></a> </p>
 
-- 🔭 Tech Enthusiast | Author | Coach**
+- 🔭 Tech Enthusiast|Author|Coach
 
-- 🌱 I’m currently learning **DevSecOps,Mlops,**
+- 🌱 I’m currently enrolled for **Devops Ambassador**
 
 - 👨‍💻 All of my projects are available at **https://UmarFarooqkadri.netlify.app/**
 
