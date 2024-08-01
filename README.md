@@ -8,21 +8,18 @@
 
 <p align="left"> <a href="https://twitter.com/umarfarooqkadri" target="blank"><img src="https://img.shields.io/twitter/follow/umarfarooqkadri?logo=twitter&style=for-the-badge" alt="umarfarooqkadri" /></a> </p>
 
-- 🔭 Tech Enthusiast | Author | Coach
+- 🔭 **PeopleCert Ambassador - DevOps | Author | Coach**
 
 - 🌱 I’m currently working as **Devops Ambassador**
-- - 👯 **Tech contributor at Medium -**https://medium.com/@farooqkadri 
-
-
-- 👨‍💻 All of my projects are available at **https://UmarFarooqkadri.netlify.app/**
+- 👯 **Tech contributor at Medium -** https://medium.com/@farooqkadri 
 
 - 👯 **Author-** https://www.amazon.in/Kubernetes-Certificate-Management-Cert-Manager-ebook/dp/B0965QPX58
 
 - 💬 Ask me about **Cloud , DevOps , AWS , Azure**
+- 👨‍💻 All of my projects are available at https://UmarFarooqkadri.netlify.app/
 
 - 📫 Can be reached @ **farooqkadri@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammadawab/](https://www.linkedin.com/in/muhammadawab/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
