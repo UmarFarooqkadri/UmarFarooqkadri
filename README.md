@@ -1,4 +1,4 @@
-[![MasterHead](Blue and Gray Illustration Personal LinkedIn Banner.png)](https://rishavchanda.io)
+![Header](./[banner2])
 <h1 align="center">Hi 👋, I'm Umar Farooq kadri</h1>
 <h3 align="center">A passionate DevSecOps Architect</h3>
 
