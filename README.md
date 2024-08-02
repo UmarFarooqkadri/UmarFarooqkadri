@@ -1,6 +1,6 @@
 [![MasterHead](banner.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Umar Farooq kadri</h1>
-<h3 align="center">A passionate DevOps Architect</h3>
+<h3 align="center">A passionate DevSecOps Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarfarooqkadri&label=Profile%20views&color=0e75b6&style=flat" alt="umarfarooqkadri" /> </p>
 
@@ -10,12 +10,12 @@
 
 - 🔭 **PeopleCert Ambassador - DevOps | Author | Coach**
 
-- 🌱 I’m currently working as **Devops Ambassador**
+- 🌱 I’m currently working as **DevSecops Architect**
 - 👯 **Tech contributor at Medium -** https://medium.com/@farooqkadri 
 
 - 👯 **Author-** https://www.amazon.in/Kubernetes-Certificate-Management-Cert-Manager-ebook/dp/B0965QPX58
 
-- 💬 Ask me about **Cloud , DevOps , AWS , Azure**
+- 💬 Ask me about **Cloud , DevSecOps , AWS , Azure**
 - 👨‍💻 All of my projects are available at https://UmarFarooqkadri.netlify.app/
 
 - 📫 Can be reached @ **farooqkadri@gmail.com**
