@@ -1,4 +1,4 @@
-![Header](./[banner2])
+![Header](./[banner2.png])
 <h1 align="center">Hi 👋, I'm Umar Farooq kadri</h1>
 <h3 align="center">A passionate DevSecOps Architect</h3>
 
