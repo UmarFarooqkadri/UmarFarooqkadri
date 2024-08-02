@@ -1,4 +1,4 @@
-![Header](./[banner2.png])
+[![MasterHead](banner2.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Umar Farooq kadri</h1>
 <h3 align="center">A passionate DevSecOps Architect</h3>
 
